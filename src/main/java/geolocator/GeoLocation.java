@@ -1,5 +1,8 @@
 package geolocator;
 
+/**
+ * Data class that represents a GeoLocation object.
+ */
 @lombok.Data
 public class GeoLocation {
 
